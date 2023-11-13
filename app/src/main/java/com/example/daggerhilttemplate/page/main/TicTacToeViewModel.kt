@@ -1,4 +1,4 @@
-package com.example.daggerhilttemplate
+package com.example.daggerhilttemplate.page.main
 
 import android.util.Log
 import androidx.lifecycle.ViewModel
